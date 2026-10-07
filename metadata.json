@@ -1,0 +1,6 @@
+{
+  "name": "VeriClause - Agreement Scam & Risk Auditor",
+  "description": "NLP-powered contract and agreement inspector that detects hidden scams, predatory clauses, fine print traps, and verifies legal document safety.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
